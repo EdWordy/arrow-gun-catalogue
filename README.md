@@ -1,4 +1,4 @@
-# psg-gun-catalogue-feather
+# arrow-gun-catalogue
 
 An interactive catalogue for purchasing weapons similar to the one found in RDO.
 
